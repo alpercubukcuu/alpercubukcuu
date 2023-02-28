@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there I'm Alper 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,3 +10,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=alpercubukcuu&show_icons=true&theme=radical)
