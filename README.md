@@ -11,12 +11,3 @@ I'm software developer.
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=alpercubukcuu&show_icons=true&theme=radical)
 
- myJson = "{\"name\":\"" + item.Name + "\",\"surname\":\"" + item.Surname + "\",\"phone\":\""
-                    + phone + "\",\"email\":\"" + item.Email + "\",\"city\":\""
-                    + item.City + "\",\"district\":\"" + item.District 
-                    + "\",\"kvkkpermission\":\"" + "X" 
-                    + "\",\"contactpermission\":\"" + etk 
-                    + "\",\"createdate\":\"" + kvkk_tarih 
-                    + "\",\"product\":\"" + item.SapProductCode
-                    + "\",\"smscode\":\"" + item.SmsCode
-                    + "\" }";
