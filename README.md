@@ -18,6 +18,7 @@ I actively share my projects on GitHub and constantly update information about t
 ## Contact 
 - LinkedIn: [Alper Cubukcu](https://www.linkedin.com/in/alpercubukcu/)
 - Email: alpercubukcuu@gmail.com
+  
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,bootstrap,jquery,postgres,mysql,mssql,redis,docker,azure,aws,git,jenkins,jira)](https://skillicons.dev)
 
