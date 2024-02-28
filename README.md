@@ -12,9 +12,6 @@ Hello, I am a Full Stack Software developer and my passion for technology allows
 - **Version Control**: Git, Jenkins
 - **Project Management**: Jira, Agile Methodology, Sprint & Scrum
 
-## 🌍 Where can you find me?
-I actively share my projects on GitHub and constantly update information about technology. By following me, you can see what I'm doing in my software development journey.
-
 ## Contact 
 - LinkedIn: [Alper Cubukcu](https://www.linkedin.com/in/alpercubukcu/)
 - Email: alpercubukcuu@gmail.com
